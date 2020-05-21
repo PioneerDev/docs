@@ -8,6 +8,22 @@
 2. Create an over 3 pull requests and merged in any active projects
 3. Contact @Lyric (mixin id: 764392)
 
+### How to contribute
+
+We use Github issues to discuss new features or new projects.
+
+### What can I do now
+
+We are preparing a very first project named “Set Flags”(打卡), which is a bot allow to set flags by people. Learn more about it [here](https://github.com/PioneerDev/set-flags/).
+
+There are some projects on the way:
+
+1. A vote bot to create votes and vote for existed one.
+2. A twitter clone which use Mixin Messenger to sign in.
+
+If you have any terrific ideas, submit an issue when your project solution document is ready.
+
+
 ### Tech Dependences
 
 By defaults, we ask developers to use following languages/packages/libraries/frameworks in projects:
