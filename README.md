@@ -14,7 +14,7 @@ We use Github issues to discuss new features or new projects.
 
 ### What can I do now
 
-We are preparing a very first project named “Set Flags”(打卡), which is a bot allow to set flags by people. Learn more about it [here](https://github.com/PioneerDev/set-flags/).
+We are preparing a very first project named “Set Flags”(打卡), which is a bot allow to set flags by people. Learn more about it [here](https://github.com/set-flags/set-flags).
 
 There are some projects on the way:
 
