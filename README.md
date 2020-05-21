@@ -8,8 +8,6 @@
 2. Create an over 3 pull requests and merged in any active projects
 3. Contact @Lyric (mixin id: 764392)
 
-### How to contribute
-
 We use Github issues to discuss new features or new projects.
 
 ### What can I do now
@@ -22,7 +20,6 @@ There are some projects on the way:
 2. A twitter clone which use Mixin Messenger to sign in.
 
 If you have any terrific ideas, submit an issue when your project solution document is ready.
-
 
 ### Tech Dependences
 
